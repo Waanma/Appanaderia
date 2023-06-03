@@ -7,5 +7,6 @@ export const COLORS = {
   black: '#000000',
   white: '#ffffff',
   inactive: "#E3DEE1",
+  inactive2: "#ebebeb",
   delete: "#FF221F",
 };

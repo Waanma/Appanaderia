@@ -1,3 +1,4 @@
+/* eslint-disable no-case-declarations */
 import { CATEGORIES } from '../../constants/data/categories';
 import { categoriesTypes } from '../types';
 
