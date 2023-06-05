@@ -12,7 +12,6 @@ const Cart = () => {
   const cart = useSelector((state) => state.cart.data);
 
   const isCartEmpty = cart.length === 0;
-
   const onRemove = (id) => {
     dispatch(removeFromCart(id));
   };
