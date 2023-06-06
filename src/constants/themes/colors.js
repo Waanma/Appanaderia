@@ -9,4 +9,5 @@ export const COLORS = {
   inactive: "#E3DEE1",
   inactive2: "#ebebeb",
   delete: "#FF221F",
+  transparent: '#000000',
 };
